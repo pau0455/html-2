@@ -1,0 +1,31 @@
+.background{
+    background-color:  ;
+}
+
+.chat--header-background{
+    background-color: beige;
+}
+
+.white-mesagge{
+    margin-left: 65em;
+    border: 0.2em solid black;
+    border-bottom-left-radius: 1em;
+    border-top-left-radius: 1em;
+    border-bottom-right-radius: 1em;
+    border-top-right-radius: 1em;
+    background-color: white;
+
+
+}
+
+.green-mesagge{
+    margin-right: 65em;
+    border: 0.2em solid black;
+    border-bottom-left-radius: 1em;
+    border-top-left-radius: 1em;
+    border-bottom-right-radius: 1em;
+    border-top-right-radius: 1em;
+    background-color: greenyellow;
+
+
+}
