@@ -1,31 +1,79 @@
-.background{
-    background-color:  ;
+#background{
+    background-color: #457879 ;
 }
 
+.background-white{
+    background-color: white;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 0.1%;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+    border-bottom-color: black;
+}
+
+
+#title{
+    text-align: center;
+    color: greenyellow
+}
 .chat--header-background{
-    background-color: beige;
+    background-color: #eceadc;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-top-left-radius: 1.2em;
+    border-top-right-radius: 1.2em;
 }
 
 .white-mesagge{
-    margin-left: 65em;
+    margin-right: 50%;
     border: 0.2em solid black;
     border-bottom-left-radius: 1em;
     border-top-left-radius: 1em;
     border-bottom-right-radius: 1em;
     border-top-right-radius: 1em;
     background-color: white;
+    text-align: center;
 
 
 }
 
 .green-mesagge{
-    margin-right: 65em;
+    margin-left: 50%;
     border: 0.2em solid black;
     border-bottom-left-radius: 1em;
     border-top-left-radius: 1em;
     border-bottom-right-radius: 1em;
     border-top-right-radius: 1em;
-    background-color: greenyellow;
+    background-color: #9ad147;
+    text-align: center;
 
+}
+
+.title-chat{
+    border-top-left-radius: 1em;
+    border-top-right-radius: 1em;
+    background-color:#233c42;
+    color: white;
+    padding-left: 1em;
+
+}
+
+#title{
+    font-size: large;
+    size: 10%;
+}
+
+.joke-green{
+    color: white;
+    background-color: #9ad147;
+    text-align: center;
+    padding: 0.8em;
+}
+
+.joke-white{
+    color: #9ad147;
+    text-align: center;
+    padding: 0.8em;
 
 }
